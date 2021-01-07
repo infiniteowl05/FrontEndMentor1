@@ -248,4 +248,7 @@ h1{
     .content{
         margin-top: 100px;
     }
+    .heading h1{
+        margin-right: 60px;
+    }
 }
